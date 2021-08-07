@@ -10,6 +10,7 @@ The package includes:
 Original author: Erik Hofman <erik@ehofman.com>
 
 Contributors for the Fokker 70 and 100:
+    Aditya Prasad Sahoo - FDM Fixes, new sounds, 3D mesh fix
     Charlie Reynier - FDM fixes
     Michel Maia - Alpha Version
     Isaias V. Prestes 'isix' - Beta 0.1
